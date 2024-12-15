@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @J-Schuler
+- 👋 Hi, I’m @Jake-Schuler
 - 👀 I’m interested in Web & Game Development
 - 🌱 I’m currently learning Astro and Tailwind
 - 📫 How to reach me: [Contact links on my website](https://jschuler.hackclub.app)
