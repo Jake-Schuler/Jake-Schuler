@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Jake-Schuler
+- 👋 Hi, I’m [@Jake-Schuler](https://github.com/Jake-Schuler)
 - 👀 I’m interested in Web & Game Development
-- 🌱 I’m currently learning Astro and Tailwind
+- 🌱 I’m currently learning Astro, Tailwind and Go Lang
 - 📫 How to reach me: [Contact links on my website](https://jschuler.hackclub.app)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a tall boi
